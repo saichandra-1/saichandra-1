@@ -8,4 +8,4 @@
 saichandra-1/saichandra-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://app.daily.dev/saichandra"><img src="https://api.daily.dev/devcards/v2/qK6JTTNkce8Tnq2bojwjj.png?type=wide&r=x6j" width="652" alt="Sai chandra's Dev Card"/></a>
+<!---<a href="https://app.daily.dev/saichandra"><img src="https://api.daily.dev/devcards/v2/qK6JTTNkce8Tnq2bojwjj.png?type=wide&r=x6j" width="652" alt="Sai chandra's Dev Card"/></a>--->
