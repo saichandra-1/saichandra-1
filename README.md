@@ -1,126 +1,72 @@
-<!--
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 <h2 align="center">
-  Welcome to sai's World!
+  Hey.. welcome to CHANDRA'S github !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
+
 <p align="center">
-  <a href="https://github.com/saichandra-1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/saichandra-1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Coding%20enthusiastic&center=true&width=380&height=45"></a>
 </p>
 
- -->
-
-<a href="https://komarev.com/ghpvc/?username=saichandra-1">
-  <img align="right" src="https://komarev.com/ghpvc/?username=saichandra-1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://saichandra-1.com">sai chandra</a></b>
-        </samp>
-</h3>
 
 
 <p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=sai+chandra">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://saichandra-1.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sai chandra" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sai chandra"/>
- </a>
- <!-- <a href="https://dev.to/sai chandra" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="sai chandra" />
- </a> -->
- <a href="https://twitter.com/sai chandra" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/sai chandra" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sai chandra" />
- </a> 
- <a href="https://facebook.com/sai chandra.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sai chandra"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
+ <img src="https://komarev.com/ghpvc/?username=saichandra-1&label=Profile%20views&color=0e75b6&style=flat" alt="sai chandra" /> 
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sai chandra.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/sai chandra/sai chandra/issues)
-
+<!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<br/>
-<br/>
-<br/>
+<p align="center">Tech Stacks</p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-## Use To Code
+<br>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
-<br/>
 
-## Top Open Source -
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saichandra-1\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saichandra-1&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<h3 align="left">Activity:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saichandra-1&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+
+<br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/saichandra-1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sai-chandra-7b2528250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai chandra" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sai chandra" height="30" width="40" /></a> -->
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai chandra" height="30" width="40" /></a>
+<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai chandra" height="30" width="40" /></a>
+<a href="https://x.com/1211Saichandra?t=dbJLDq4XAdcmE4e6n8wB2w&s=08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="sai chandra" height="30" width="40" /></a>
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/saichandra-1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="sai's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/saichandra-1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saichandra-1&theme=radical" alt="Al sai's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/saichandra-1"><img alt="Al sai's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/saichandra-1"><img alt="Al sai's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=saichandra-1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Al sai's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saichandra-1&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
