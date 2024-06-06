@@ -55,6 +55,8 @@
 
 
 <h3 align="left">Activity:</h3>
+<img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandra-1&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<br><br>
 
 ![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saichandra-1&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
