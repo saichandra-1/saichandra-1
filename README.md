@@ -6,19 +6,36 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/saichandra-1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Coding%20enthusiastic&center=true&width=380&height=45"></a>
+  <a href="https://github.com/saichandra-1"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Full%20Stack%20Developer;Coding%20Enthusiast&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=saichandra-1&label=Profile%20views&color=0e75b6&style=flat" alt="sai chandra" /> 
+  <img src="https://komarev.com/ghpvc/?username=saichandra-1&label=Profile%20views&color=0e75b6&style=flat" alt="sai chandra" /> 
 </p>
 
 ---
 
-<h3 align="center">⚡ Skills & Technologies</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<h4 align="">🎨 Frontend</h4>
-<p align="">
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" />
+</p>
+
+---
+
+<h3>⚡ Skills & Technologies</h3>
+
+<h4>🎨 Frontend</h4>
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,8 +47,8 @@
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
-<h4 align="">🐍 Python Backend</h4>
-<p align="">
+<h4>🐍 Python Backend</h4>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -42,30 +59,30 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-<h4 align="">🟢 Node.js Backend</h4>
-<p align="">
+<h4>🟢 Node.js Backend</h4>
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<h4 align="">🗄️ Databases</h4>
-<p align="">
+<h4>🗄️ Databases</h4>
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<h4 align="">🔐 Auth & Real-Time</h4>
-<p align="">
+<h4>🔐 Auth & Real-Time</h4>
+<p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-<h4 align="">☁️ DevOps & Cloud</h4>
-<p align="">
+<h4>☁️ DevOps & Cloud</h4>
+<p>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
@@ -80,15 +97,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h4 align="">🧪 Testing & Quality</h4>
-<p align="">
+<h4>🧪 Testing & Quality</h4>
+<p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
-<h4 align="">🧠 Core CS</h4>
-<p align="">
+<h4>🧠 Core CS</h4>
+<p>
   <img src="https://img.shields.io/badge/DSA-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/OOP-Design-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=blueprint&logoColor=white" />
@@ -103,21 +120,11 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
 
-![chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saichandra-1&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
+![chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=saichandra-1&theme=midnight-purple&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saichandra-1&theme=midnight-purple)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saichandra-1&layout=compact&theme=midnight-purple)
 
 </div>
-
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">📈 Activity:</h3>
-<img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saichandra-1&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-<br><br>
-
-![Chandra's Graph](https://github-readme-activity-graph.vercel.app/graph?username=saichandra-1&custom_title=Chandra's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br>
 
@@ -126,12 +133,12 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sai-chandra-7b2528250" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/1211Saichandra" target="blank">
-    <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://github.com/saichandra-1" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
