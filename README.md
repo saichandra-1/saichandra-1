@@ -18,7 +18,7 @@
 <h3 align="center">⚡ Skills & Technologies</h3>
 
 <h4 align="center">🎨 Frontend</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -31,7 +31,7 @@
 </p>
 
 <h4 align="center">🐍 Python Backend</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -43,14 +43,14 @@
 </p>
 
 <h4 align="center">🟢 Node.js Backend</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <h4 align="center">🗄️ Databases</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -58,14 +58,14 @@
 </p>
 
 <h4 align="center">🔐 Auth & Real-Time</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 <h4 align="center">☁️ DevOps & Cloud</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
@@ -81,14 +81,14 @@
 </p>
 
 <h4 align="center">🧪 Testing & Quality</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 <h4 align="center">🧠 Core CS</h4>
-<p align="center">
+<p align="">
   <img src="https://img.shields.io/badge/DSA-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/OOP-Design-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System_Design-0052CC?style=for-the-badge&logo=blueprint&logoColor=white" />
