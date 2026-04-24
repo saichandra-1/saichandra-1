@@ -15,23 +15,6 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" />
-</p>
-
----
-
 <h3 align="center">⚡ Skills & Technologies</h3>
 
 <h4 align="center">🎨 Frontend</h4>
